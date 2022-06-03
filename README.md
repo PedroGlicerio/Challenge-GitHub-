@@ -1,6 +1,6 @@
 # Anotações
 
-Comandos Básicos Git/GitHub
+*Comandos Básicos Git/GitHub*
 
 * ls = Mostra todas as pastas contidas em um determinado ambiente do computador.
 * ls -a = Mostra arquivos ocultos.
