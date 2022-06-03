@@ -1,2 +1,2 @@
-# Challenge-GitHub-
+# Primeiro desafio de Git/GitHub
 Projeto GitHub
