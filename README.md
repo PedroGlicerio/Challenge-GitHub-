@@ -20,3 +20,10 @@
 
 *Importante usar mesmo email e nome usados no GitHub*
  
+ _Caso as informações como email e nome estejam erradas, podemos utilizar o seguinte código para fazer as alterações necessárias:
+ 
+ * git config --global --unset user.email
+ * git config --global --unset user.name
+
+* git config --global user.email "emailnovo"
+* git config --global user.name "nomenovo"
