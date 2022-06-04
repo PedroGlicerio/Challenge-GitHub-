@@ -37,6 +37,8 @@ ________________________________________________________________________________
 
 # Markdown comandos
 
+*O markdown é uma maneira rápida e fácil de fazer anotações.*
+
 * <https://www.markdownguide.org/basic-syntax/>
  
 ___________________________________________________________________________________
