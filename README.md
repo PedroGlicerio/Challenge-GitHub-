@@ -13,7 +13,7 @@
 
 # Criando arquivo dentro de uma pasta
 
-*Antes de criar o arquivo, precisa de fazer algumas alterações na config do git (Caso for a primeira vez utilizando o Git)*
+*Antes de criar o arquivo, precisa de fazer algumas alterações na config do Git (Caso for a primeira vez utilizando o Git)*
 
 * git config --global user.email "seuemail"
 * git config --global user.name "seunome"
