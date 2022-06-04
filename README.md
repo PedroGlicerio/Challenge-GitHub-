@@ -16,16 +16,16 @@ ________________________________________________________________________________
 # Criando arquivo dentro de uma pasta
 ___________________________________________________________________________________
 
-*Antes de criar o arquivo, precisa de fazer algumas alterações na config do Git (Caso for a primeira vez utilizando o Git)*
+*Antes de criar o arquivo, precisa de fazer algumas alterações na config do Git (**Caso for a primeira vez utilizando o Git**)*
 
 * git config --global user.email "seuemail"
 * git config --global user.name "seunome"
 
-*Importante usar mesmo email e nome usados no GitHub*
+***Importante usar mesmo email e nome usados no GitHub***
 
 ___________________________________________________________________________________
 
- *Caso as informações como email e nome estejam erradas, podemos utilizar o seguinte código para fazer as alterações necessárias:*
+ *Caso as informações como email e nome estejam ***erradas***, podemos utilizar o seguinte código para fazer as alterações necessárias:*
  
  * git config --global --unset user.email
  * git config --global --unset user.name
