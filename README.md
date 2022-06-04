@@ -19,7 +19,9 @@
 * git config --global user.name "seunome"
 
 *Importante usar mesmo email e nome usados no GitHub*
- 
+
+===================================================================================================================================
+
  *Caso as informações como email e nome estejam erradas, podemos utilizar o seguinte código para fazer as alterações necessárias:*
  
  * git config --global --unset user.email
