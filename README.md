@@ -1,4 +1,5 @@
 # Anotações
+___________________________________________________________________________________
 
 *Comandos Básicos Git/GitHub*
 
@@ -10,8 +11,10 @@
 * git init = Inicia um repertório dentro da pasta.
 * git status = Mostra se o arquivo sofreu alguma alteração/modificação.
 * mv "nomedapasta" ./"nomedapastaquedesejamover"/ = Move uma pasta para outra pasta.
+___________________________________________________________________________________
 
 # Criando arquivo dentro de uma pasta
+___________________________________________________________________________________
 
 *Antes de criar o arquivo, precisa de fazer algumas alterações na config do Git (Caso for a primeira vez utilizando o Git)*
 
@@ -29,3 +32,5 @@ ________________________________________________________________________________
 
 * git config --global user.email "emailnovo"
 * git config --global user.name "nomenovo"
+
+___________________________________________________________________________________
