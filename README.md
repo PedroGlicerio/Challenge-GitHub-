@@ -20,7 +20,7 @@
 
 *Importante usar mesmo email e nome usados no GitHub*
 
-===================================================================================================================================
+___________________________________________________________________________________
 
  *Caso as informações como email e nome estejam erradas, podemos utilizar o seguinte código para fazer as alterações necessárias:*
  
